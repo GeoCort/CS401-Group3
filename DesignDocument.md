@@ -47,8 +47,9 @@ Projected Success Factors:
 These factors collectively contribute to assessing the cost and projected success of the Craftify application in the DIY education app market. 
 
 Interface Mockups (for projects that have a presentation layer/ GUI)
- 
-            See attachments.
+ ![GUI](https://github.com/ErmakovGeorge/CS401-Group3/assets/98370485/b0909c84-5d30-4694-9d6e-650f00d001db)
+
+       
 
 Design - Use Case Diagram(s)  
             See attachments.
