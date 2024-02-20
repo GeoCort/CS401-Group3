@@ -154,10 +154,13 @@ Testing
 
 Schedule 
 This schedule will also be posted on ZenBoard
+
+
 Week
 Tasks
 Weeks 1-2
 Project Planning and Setup
+<img width="1677" alt="Screenshot 2024-02-19 at 4 00 46 PM" src="https://github.com/ErmakovGeorge/CS401-Group3/assets/98370485/ab1941e0-c87b-4a04-bc91-9b6b9ca82054">
 
 
 - Define project scope, goals, and requirements
