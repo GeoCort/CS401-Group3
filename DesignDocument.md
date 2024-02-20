@@ -75,42 +75,39 @@ System Diagram (Alpha Phase)
 
  
 System Diagram:(Beta Phase - SOP) 
-              +----------------------+
-              |     Craftify App     |
-              +----------------------+
-                |               |
-         +------|-------+   +---|-------+
-         | Authentication |   |    Content     |
-         +----------------+   +----------------+
-                |               |
-  +------------+  |  +-------------+   +----------------+
-  | User Profile |  |  |    Search   |   |   Community   |
-  +------------+  |  +-------------+   +----------------+
-                |               |
-         +------|-------+   +---|-------+
-         | Analytics     |   |    Notifications |
-         +----------------+   +----------------+ 
+
+<img width="466" alt="Screenshot 2024-02-19 at 8 06 21 PM" src="https://github.com/ErmakovGeorge/CS401-Group3/assets/98370485/b6dc6fec-7b50-45b1-ab25-224f594f2b01">
+              
 1. Authentication Module: (nice to have)
+   
 Responsible for user authentication and authorization.
 Allows users to sign up, log in, and manage their accounts securely.
 Handles password encryption, session management, and user roles.
  
 2. User Profile Module: 
+
+
 Manages user profiles and preferences.
 Allows users to customize their profiles, set preferences, and manage account settings.
 Stores user information such as name, email, profile picture, and saved preferences.
  
 3. Content Module:  
+
+
 Central module responsible for managing and delivering content.
 Includes sub-modules for different content categories such as tutorials, guides, videos, and articles.
 Handles content creation, storage, retrieval, and presentation to users.
  
 4. Search Module:  
+
+
 Enables users to search for specific content within the app.
 Implements search functionality using keywords, tags, and filters.
 Retrieves relevant content based on user queries and preferences.
  
 5. Community Module:  
+
+
 Facilitates community engagement and interaction among users.
 Includes features such as forums, discussion boards, comments, and social sharing.
 Allows users to connect, share tips, ask questions, and collaborate on DIY projects.
