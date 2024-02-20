@@ -66,8 +66,13 @@ Design - Use Case Diagram(s)
 
 
 Design - Detailed Design
+![Screenshot_2024-02-19_194354](https://github.com/ErmakovGeorge/CS401-Group3/assets/98370485/662728a3-b84c-4aa6-b25d-0a692634a5ea)
+
+
+
+
  
-System Diagram:  
+System Diagram:(Expanded Prototype) 
               +----------------------+
               |     Craftify App     |
               +----------------------+
@@ -83,7 +88,7 @@ System Diagram:
          +------|-------+   +---|-------+
          | Analytics     |   |    Notifications |
          +----------------+   +----------------+ 
-1. Authentication Module: 
+1. Authentication Module: (nice to have)
 Responsible for user authentication and authorization.
 Allows users to sign up, log in, and manage their accounts securely.
 Handles password encryption, session management, and user roles.
