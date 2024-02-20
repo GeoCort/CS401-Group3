@@ -66,13 +66,15 @@ Design - Use Case Diagram(s)
 
 
 Design - Detailed Design
+
+System Diagram (Alpha Phase)
 ![Screenshot_2024-02-19_194354](https://github.com/ErmakovGeorge/CS401-Group3/assets/98370485/662728a3-b84c-4aa6-b25d-0a692634a5ea)
 
 
 
 
  
-System Diagram:(Expanded Prototype) 
+System Diagram:(Beta Phase - SOP) 
               +----------------------+
               |     Craftify App     |
               +----------------------+
