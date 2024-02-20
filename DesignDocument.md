@@ -52,8 +52,10 @@ Interface Mockups (for projects that have a presentation layer/ GUI)
        
 
 Design - Use Case Diagram(s)  
-            See attachments.
- 
+         
+ ![lucidchart](https://github.com/ErmakovGeorge/CS401-Group3/assets/98370485/9fd05fbf-eef0-4c29-b10d-68628c5fbaf6)
+
+<img width="1456" alt="image" src="https://github.com/ErmakovGeorge/CS401-Group3/assets/98370485/683e0940-f212-44a5-a784-575e3542f32c">
 
 
 
